@@ -67,13 +67,10 @@ The analysis reveals that most users are moderately active and engage with welln
 
 Key Findings:
 
-=Users are moderately active, with most movement coming from light activity.
-
-=Activity is highest on Saturdays and lowest on Sundays.
-
-=Higher activity does not necessarily lead to longer sleep.
-
-=Moderate activity is associated with better sleep efficiency than extreme activity levels.
+- Users are moderately active, with most movement coming from light activity
+- Activity is highest on Saturdays and lowest on Sunday
+- Higher activity does not necessarily lead to longer sleep  
+- Moderate activity is associated with better sleep efficiency than extreme activity levels  
 
 ## Step 6: Act
 
