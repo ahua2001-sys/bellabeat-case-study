@@ -49,16 +49,20 @@ Daily activity data was available across the full analysis period, while daily s
 
 ## Step 4: Analyze
 
-Overall Activity Levels
+### Overall Activity Levels
+
 On average, users take approximately 7,200 steps per day. Most daily movement comes from light activity, while high‑intensity activity accounts for a relatively small portion of total movement. Sedentary time is high, indicating that users engage with wellness tracking primarily as part of everyday lifestyle management rather than structured fitness routines.
 
-Activity by Day of Week
+### Activity by Day of Week
+
 Activity levels vary meaningfully by day of the week. Users are most active on Saturdays and least active on Sundays, while midweek activity remains relatively stable. This suggests that routine‑based movement plays a larger role than planned exercise and that lower‑activity days present opportunities for targeted engagement.
 
-Activity and Sleep Duration
+### Activity and Sleep Duration
+
 Higher daily activity levels are not associated with longer sleep duration. In fact, days with higher step counts correspond to slightly shorter sleep times. This indicates that sleep behavior may be influenced more by lifestyle demands and daily schedules than by physical activity alone.
 
-Activity and Sleep Efficiency
+### Activity and Sleep Efficiency
+
 Moderate activity levels are associated with the highest sleep efficiency, while high activity levels show lower efficiency. This suggests that balanced, sustainable activity supports better sleep quality than either very low or very high activity levels.
 
 ## Step 5: Share
