@@ -2,6 +2,20 @@
 Executive Summary
 This case study examines how consumers use smart wellness devices and how those usage patterns can inform Bellabeat’s product and marketing strategy. Using Fitbit fitness tracker data from approximately 30 users, the analysis identifies trends in physical activity and sleep behavior. Results show that users are moderately active overall, with most movement coming from light activity rather than intense exercise. Activity varies by day of the week, and sleep outcomes are more strongly associated with balanced, moderate activity levels than with extreme activity. These findings suggest that Bellabeat should continue emphasizing holistic wellness, consistency, and sustainable habits rather than high‑intensity fitness goals.
 
+Key Highlights
+
+Analyzed smart device usage data from ~30 Fitbit users to identify activity and sleep behavior patterns
+
+Cleaned and transformed raw CSV data using SQL (BigQuery), including deduplication and date standardization
+
+Found that users are moderately active, with most movement coming from light daily activity
+
+Identified clear day-of-week trends, with highest activity on Saturdays and lowest on Sundays
+
+Discovered that moderate activity levels are associated with the highest sleep efficiency
+
+Translated behavioral insights into actionable product and marketing recommendations for Bellabeat
+
 Step 1: Ask
 The business problem addressed in this case study is understanding how consumers use smart wellness devices in their daily lives and determining how those behaviors can be applied to Bellabeat’s products to guide marketing strategy. By analyzing smart device data from non‑Bellabeat users, this study aims to align Bellabeat’s marketing and product positioning with real, observed user behavior. Grounding decisions in real‑world usage patterns helps Bellabeat improve engagement, target the right behaviors, and increase the likelihood of long‑term product and campaign success.
 
@@ -26,17 +40,25 @@ Moderate activity levels are associated with the highest sleep efficiency, while
 
 Step 5: Share
 The analysis reveals that most users are moderately active and engage with wellness devices as part of their daily routines rather than for intense fitness training. Activity patterns fluctuate by day of the week, and balanced activity levels are linked to better sleep efficiency. These insights reinforce the importance of positioning Bellabeat as a holistic wellness brand focused on consistency, balance, and long‑term habit building.
-Key Findings
+Key Findings:
+
 Users are moderately active, with most movement coming from light activity.
+
 Activity is highest on Saturdays and lowest on Sundays.
+
 Higher activity does not necessarily lead to longer sleep.
+
 Moderate activity is associated with better sleep efficiency than extreme activity levels.
 
 Step 6: Act
 Based on these findings, the following recommendations are proposed:
+
 Emphasize sustainable, moderate activity rather than extreme fitness goals.
+
 Use day‑of‑week patterns to deliver targeted, timely engagement, especially on low‑activity days such as Sundays.
+
 Highlight sleep quality and recovery, not just sleep duration, in both product features and marketing messaging.
+
 These actions align closely with Bellabeat’s brand values and support a holistic approach to wellness.
 
 Limitations and Future Opportunities
