@@ -76,10 +76,11 @@ Key Findings:
 
 Based on these findings, the following recommendations are proposed:
 
-- Emphasize sustainable, moderate activity rather than extreme fitness goals.
-- Use day‑of‑week patterns to deliver targeted, timely engagement, especially on low‑activity days such as Sundays.
-- Highlight sleep quality and recovery, not just sleep duration, in both product features and marketing messaging.
-- These actions align closely with Bellabeat’s brand values and support a holistic approach to wellness.
+- Emphasize sustainable, moderate activity rather than extreme fitness goals  
+- Use day-of-week patterns to deliver targeted, timely engagement, especially on low-activity days such as Sundays  
+- Highlight sleep quality and recovery, not just sleep duration, in both product features and marketing messaging  
+
+These actions align closely with Bellabeat’s brand values and support a holistic approach to wellness.
 
 ## Limitations and Future Opportunities:
 
